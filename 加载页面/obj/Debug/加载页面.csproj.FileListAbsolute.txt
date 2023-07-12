@@ -1,0 +1,12 @@
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\bin\Debug\加载页面.exe.config
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\bin\Debug\加载页面.exe
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\bin\Debug\加载页面.pdb
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.csproj.AssemblyReference.cache
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.csproj.SuggestedBindingRedirects.cache
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.FrmMain.resources
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.FrmWelcom.resources
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.Properties.Resources.resources
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.csproj.GenerateResource.cache
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.csproj.CoreCompileInputs.cache
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.exe
+D:\window\Visual Studio 2022\Projects\64gX课堂\加载页面\obj\Debug\加载页面.pdb
