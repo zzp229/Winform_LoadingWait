@@ -1,0 +1,2 @@
+# Winform_LoadingWait
+实现winform创建加载的时候等待效果
